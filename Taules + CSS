@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Noticies UFC: retirada Khabib</title>
+    </head>
+    <body>
+        <h1 style="color:rgb(34, 0, 255);text-align:center;">INESPERADA NOTÍCIA DE LA UFC</h1>
+        <h2 style="background-color: rgb(0, 255, 0);">Khabib se retira para siempre de la UFC</h2>
+        <p>El luchador de MMA, Khabib Nurmagomedov se ha retirado tras su última batalla contra el luchador Justin Gaethje el 24 de octubre de 2021.   </p>
+        <p>Despues de la muerte de su padre, Abdulmanap Nurmagomenov, a sus 57 años en el 2020 a causa de la pandemia del covid-19, Khabib le prometió a su madre no luchar más despues de esa tragedia. Y así lo cumplió, aceptó la pelea con Justin pero dijo que seria la última pelea que iria sin su padre. I así terminó su carrera de MMA (Mixt Martial Arts) con un récord invicto de 29-0-0 y yendose campeón del cinturón de peso ligero y dejando el cinturón sin dueño. Cerro su carrera profesional con un récord increíble que ningún otro luchador a conseguido tener hasta el momento. Khabib a marcado história en la UFC i serà una leyenda del deporte de contacto.</p>
+        <p>Hoy en día Khabib aparece en la UFC como entrenador i parte del equipo del luchador Islam Makachev que llevan juntos desde pequeños entrenando para este deporte.</p>
+        <img src="khabib.png">
+        <h3 style="font-size: 25px">Fonts de la notícia</h3>
+    
+        <p><a href="https://www.dazn.com/es-ES/news/mma/khabib-nurmagomedov-por-que-se-retiro-y-dejo-vacante-el-titulo-del-peso-ligero-de-ufc/1a6t82w5s677t1dc9adfpocny4">DAZN</a></p>
+        <p><a href="https://www.mundodeportivo.com/ufc/20211101/1001707377/retiro-khabib-nurmagomedov-siendo-mejor-historia-ufc.html">Mundo deportivo</a></p> 
+        <p><a href="horari.html">Horari.html</a></p> 
+        <h4 style="font-size: 25px">Altres notícies importants</h4>
+        <p>1-Los exámenes PAU cambian su formato a partir del año 2025 y los estudiantes se manifiestan</p>
+        <p>2-Dani Carvajal, jugador del Real Madrid, se lesiona gravemente
+        </p>   
+        <p>3-Miles de personas se manifiestan en España a favor de Palestina</p>
+        <h5 style="font-size: 25px">Glosario</h5>
+        <p>UFC: La liga más importante de la lucha de contacto de MMA</p>
+        <p>Covid-19: enfermedad contagiosa y peligrosa que se desenvolupó en el 2020 y trajo la muerte de muchas personas.</p>    
+    </body>
