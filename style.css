@@ -6,7 +6,7 @@ font-weight: 600
 
 }
 h1 {
-
+font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     font-size: 45px;
     color:blue
@@ -14,13 +14,15 @@ h1 {
 table, th, td {
 
 border: 1px solid black; border-collapse: collapse; 
-padding-bottom: 15px;
 width: 100px;
+font-family: Verdana;
+
 }
 th {
-
+    padding: 30px;
     background-color: aqua;
     text-align: center;
+    font-size: 25px;
 }
 table {
 
@@ -58,13 +60,19 @@ td {
     background-color: burlywood;
 }
 .AN {
+
     background-color: rgb(87, 196, 255);
 }
 .hores {
 
     background-color: cornsilk;
+    padding: 10px;
+    font-size: 20px;
+
 }
 .DESCANS {
 
     background-color: darksalmon;
+    padding: 15px;
+    font-size: 20px;
 }
